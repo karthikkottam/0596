@@ -16,7 +16,7 @@
 <body>
   <div class="container">
     <h1>Welcome to the Sample HTML Page</h1>
-    <p>This is a simple HTML page for demonstration purposes.</p>
+    <p>This is  mya simple HTML page for demonstration purposes.</p>
     <ul>
       <li>Easy to edit</li>
       <li>Responsive layout</li>
