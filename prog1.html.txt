@@ -1,8 +1,30 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sample HTML Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; background: #f8f8f8; margin: 2em; }
+    h1 { color: #333; }
+    p { color: #555; }
+    a { color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .container { background: #fff; padding: 2em; border-radius: 8px; max-width: 600px; margin: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.05);}
+  </style>
+</head>
 <body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
+  <div class="container">
+    <h1>Welcome to the Sample HTML Page</h1>
+    <p>This is a simple HTML page for demonstration purposes.</p>
+    <ul>
+      <li>Easy to edit</li>
+      <li>Responsive layout</li>
+      <li>Styled with basic CSS</li>
+    </ul>
+    <p>
+      Visit <a href="https://github.com/">GitHub</a> for more projects.
+    </p>
+  </div>
 </body>
 </html>
